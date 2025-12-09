@@ -1,15 +1,9 @@
 from os import system
 system("clear||cls")
 
-print("Page 1: The welcome page")
+print("As you make your way to the park you hear something in the bushes.")
+print("You hear the creature get closer you begin to panic!")
+print("Your fight or flight response kicks in and you accidently fall into a pond.")
+print("Turns out it was just a cat.")
 print("")
-print("This page makes use of the os module's system command to clear the screen")
-print("")
-print("""To go to the next page, enter a 5.
-To stay here, enter anything else.
-      """)
-choice = input("Where do you want to go next? hint: enter a 5")
-if choice == "5":
-    import page5
-else:
-    import page1
+print("Restart.")

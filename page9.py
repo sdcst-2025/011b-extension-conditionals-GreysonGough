@@ -1,9 +1,8 @@
-from rich import print
 from os import system
 system("clear||cls")
 
-print("[bold green]Page 9: This is formatted")
-print("but the next line is not!")
-print()
-print("[bold blue underline]You can add multiple formats")
-print("[yellow]including underlines and bold")
+print("As the waiter comes around with the card reader, you slowly press 0% tip.")
+print("The waiter walks off into the back and you think you are in the clear.")
+print("Until you look behind you and there is a seaven foot bald man cracking his knuckles.")
+print("")
+print("restart")
